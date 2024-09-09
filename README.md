@@ -28,6 +28,11 @@ The models are trained and tested on a dataset sourced from Kaggle, specifically
 - **docs/**: Documentation on model performance and setup instructions.
 - **notebooks/**: Jupyter notebooks for interactive model training and evaluation.
 
+## Acknowledgments
+- Dr. Vaibhav Kumar for his guidance and supervision.
+- Master Dhawal Patil for technical support throughout the project.
+- Kaggle for providing the dataset used for training the models.
+
 ## Setup and Installation
 Ensure you have Python 3.8+ installed, then clone this repository and install required packages:
 ```bash
@@ -37,9 +42,4 @@ pip install -r requirements.txt
 To run the object detection and character recognition models:
 python src/detect.py
 
-
-Acknowledgments
-Dr. Vaibhav Kumar for his guidance and supervision.
-Master Dhawal Patil for technical support throughout the project.
-Kaggle for providing the dataset used for training the models.
 
